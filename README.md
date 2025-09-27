@@ -1,30 +1,36 @@
-# Ace Exterminators website
+# ❄️ HVAC Agency Website
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+A modern, professional, and fully responsive website for an HVAC (Heating, Ventilation, and Air Conditioning) company.  
+The site is designed to showcase services, provide information to customers, and allow easy booking for maintenance or installation.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/ukasamuel04-gmailcoms-projects/v0-ace-exterminators-website)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/2WlGRDkRRR7)
+![HVAC Agency Banner](./banner.png)
 
-## Overview
+---
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+## 🌟 Overview
+This project helps HVAC companies establish a strong online presence by providing a well-structured website that builds trust and improves customer engagement.
 
-## Deployment
+---
 
-Your project is live at:
+## ✨ Features
+- **Service Listings** – Showcase all HVAC services offered (AC repair, installations, maintenance, etc.).
+- **Booking Form** – Customers can schedule appointments directly from the site.
+- **Responsive Design** – Smooth experience on all devices.
+- **SEO Optimized** – Increases online visibility.
+- **Customer Testimonials** – Build credibility and trust.
+- **Contact Information + Google Maps Integration**.
 
-**[https://vercel.com/ukasamuel04-gmailcoms-projects/v0-ace-exterminators-website](https://vercel.com/ukasamuel04-gmailcoms-projects/v0-ace-exterminators-website)**
+---
 
-## Build your app
+## 🛠 Tech Stack
+- **Frontend:** React.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB / MySQL  
+- **Deployment:** Vercel
 
-Continue building your app on:
+---
 
-**[https://v0.app/chat/projects/2WlGRDkRRR7](https://v0.app/chat/projects/2WlGRDkRRR7)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+## ⚙️ Installation
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/priestooo/hvac-agency.git
