@@ -3,7 +3,7 @@
 A modern, professional, and fully responsive website for an HVAC (Heating, Ventilation, and Air Conditioning) company.  
 The site is designed to showcase services, provide information to customers, and allow easy booking for maintenance or installation.
 
-![HVAC Agency Banner](./banner.png)
+![HVAC Agency Banner](./banner2.jpg)
 
 ---
 
